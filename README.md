@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxghafori&label=Profile%20views&color=0e75b6&style=flat" alt="maxghafori" /> </p>
 
-- 🔭 I’m currently working on [Phinix](phinix.com)
+- 🔭 I’m currently working on [Phinix](https://www.phinix.com)
 
 - 🌱 I’m currently learning **solidity**
 
