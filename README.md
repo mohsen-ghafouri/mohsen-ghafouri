@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohsen Ghafori</h1>
-<h3 align="center">A passionate mobile application developer from Iran</h3>
+<h3 align="center">A passionate mobile engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxghafori&label=Profile%20views&color=0e75b6&style=flat" alt="maxghafori" /> </p>
 
-- 🔭 I’m currently working on [Phinix](https://www.phinix.com)
+- 🔭 I’m currently working on [Xcoins](https://www.xcoins.com)
 
 - 🌱 I’m currently learning **solidity**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **any kind of mobile application**
 
-- 💬 Ask me about **android , react native**
+- 💬 Ask me about **Java/Kotin, React Native, Flutter**
 
 - 📫 How to reach me **maxghafori@gmail.com**
 
