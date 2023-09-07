@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mohsen Ghafori</h1>
+<h1 align="center">Hi 👋, I'm Mohsen Ghafouri</h1>
 <h3 align="center">A passionate mobile engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxghafori&label=Profile%20views&color=0e75b6&style=flat" alt="maxghafori" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [Xcoins](https://www.xcoins.com)
+<a href="https://github.com/status-im/status-mobile">
+  <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=status-im&show_owner=status-im&repo=status-mobile"/>
+</a>
 
-- 🌱 I’m currently learning **solidity**
+</div>
+
+- 🔭 I’m currently working at [Status]([https://www.xcoins.com](https://status.im/))
+
+- 🌱 I’m currently learning **clojure**
 
 - 👯 I’m looking to collaborate on **crypto currency application**
 
 - 🤝 I’m looking for help with **any kind of mobile application**
 
-- 💬 Ask me about **Java/Kotin, React Native, Flutter**
+- 💬 Ask me about **Java/Kotin, Typescript, React Native, Flutter**
 
 - 📫 How to reach me **maxghafori@gmail.com**
 
@@ -19,8 +26,12 @@
 
 - ⚡ Fun fact **I watch harry potter movies every year**
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxghafori&show_icons=true&locale=en&layout=compact" alt="maxghafori" /></p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsen-ghafouri&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-ghafouri" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
