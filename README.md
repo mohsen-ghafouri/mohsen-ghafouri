@@ -6,6 +6,9 @@
 <a href="https://github.com/status-im/status-mobile">
   <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=status-im&show_owner=status-im&repo=status-mobile"/>
 </a>
+<a href="https://github.com/status-im/status-go">
+  <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=status-im&show_owner=status-im&repo=status-go"/>
+</a>
 
 </div>
 
