@@ -12,9 +12,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Status]([https://www.xcoins.com](https://status.im/))
-
-- 🌱 I’m currently learning **clojure**
+- 🌱 I’m currently learning **clojure**, **go**
 
 - 👯 I’m looking to collaborate on **crypto currency application**
 
