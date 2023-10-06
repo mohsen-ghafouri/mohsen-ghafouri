@@ -24,7 +24,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mghafori](https://www.linkedin.com/in/mghafori)
 
-- ⚡ Fun fact **I watch harry potter movies every year**
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsen-ghafouri&layout=compact&langs_count=8&card_width=320" />
