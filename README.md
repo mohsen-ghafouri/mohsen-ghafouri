@@ -29,7 +29,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsen-ghafouri&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-ghafouri" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-ghafouri&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 
 
