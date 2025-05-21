@@ -12,13 +12,13 @@
 
 </div>
 
-- 🌱 I’m currently learning **clojure**, **go**
+- 🌱 I’m currently learning **go**
 
 - 👯 I’m looking to collaborate on **crypto currency application**
 
 - 🤝 I’m looking for help with **any kind of mobile application**
 
-- 💬 Ask me about **Java/Kotin, Typescript, React Native, Flutter**
+- 💬 Ask me about **Typescript, React Native, Next.js**
 
 - 📫 How to reach me **maxghafori@gmail.com**
 
